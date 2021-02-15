@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Matriz\bin\Debug\netcoreapp3.1\Matriz.exe
+C:\Users\ASUS\source\repos\Matriz\bin\Debug\netcoreapp3.1\Matriz.deps.json
+C:\Users\ASUS\source\repos\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.json
+C:\Users\ASUS\source\repos\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Matriz\bin\Debug\netcoreapp3.1\Matriz.dll
+C:\Users\ASUS\source\repos\Matriz\bin\Debug\netcoreapp3.1\Matriz.pdb
+C:\Users\ASUS\source\repos\Matriz\obj\Debug\netcoreapp3.1\Matriz.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Matriz\obj\Debug\netcoreapp3.1\Matriz.dll
+C:\Users\ASUS\source\repos\Matriz\obj\Debug\netcoreapp3.1\Matriz.pdb
